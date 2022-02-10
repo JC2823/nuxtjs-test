@@ -23,8 +23,8 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['~layouts/globals.css'],
   router: {
-     base: '/<repository-name>/'
-  }
+     base: '/nuxtjs-text/'
+  },
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
 
